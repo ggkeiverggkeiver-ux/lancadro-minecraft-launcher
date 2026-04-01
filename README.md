@@ -1,5 +1,5 @@
 <img width="1280" height="800" alt="Näyttökuva 2026-4-1 kello 16 23 30" src="https://github.com/user-attachments/assets/7b7f1b66-fbd1-4625-9db5-787585bdebdf" />
-# lancadro-minecraft-launcher
+# Lanzador-minecraft-launcher
 lancador is my ownered minecraft launcher and easy and 🚀 Installation Guide (English)
 To run Lanzador correctly on macOS, you must download both ZIP files. Follow these steps:
 Download both files: Download Lanzader-files.zip and Lanzader.app.zip.
